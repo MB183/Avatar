@@ -1,0 +1,33 @@
+
+
+form{
+    background-color: white;
+    padding: 20px 20px;
+    width: 330px; height: 200px;
+    border: solid 5px gray;
+}
+
+form dl dt{
+    width: 165px;
+    padding:10px 0;
+    float:left;
+    clear:both;
+}
+
+form dl dd{
+    padding:10px 0;
+}
+
+.submit{
+    text-align: left;
+}
+
+dl{
+    width:500px;
+    margin: 0 auto;
+}
+
+input#button{
+    margin-left: 36%;
+    margin-top: 10px;
+}
